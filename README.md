@@ -1,4 +1,4 @@
-# Mentorness data science and anakytics-projects
+# Mentorness data science and analysis -projects
 ## Here Are Some Sample PPTs and Source codes screenshots
 
 
